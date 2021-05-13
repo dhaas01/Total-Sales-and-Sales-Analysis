@@ -1,0 +1,10 @@
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\bin\Debug\Total Sales and Sales Analysis.exe.config
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\bin\Debug\Total Sales and Sales Analysis.exe
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\bin\Debug\Total Sales and Sales Analysis.pdb
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total Sales and Sales Analysis.csprojAssemblyReference.cache
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total_Sales_and_Sales_Analysis.Form1.resources
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total_Sales_and_Sales_Analysis.Properties.Resources.resources
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total Sales and Sales Analysis.csproj.GenerateResource.cache
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total Sales and Sales Analysis.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total Sales and Sales Analysis.exe
+E:\Programs\Chapter 7 Numbers 1 and 2\Total Sales and Sales Analysis\Total Sales and Sales Analysis\obj\Debug\Total Sales and Sales Analysis.pdb
